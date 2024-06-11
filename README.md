@@ -23,7 +23,7 @@ We present to you, a manifesto for the champions of ingenuity, the crusaders of 
 
 6. **Frugality as a Virtue:** It’s not about being cheap; it's about being efficient. Every resource saved is a bullet in our arsenal.
 
-7. **People as Multipliers:** Building a team? Find other Corner Cutters. Synergy isn’t just 1+1=2; it’s exponential growth fueled by collective cunning. Humans and robots, together in dopeness.
+7. **People as Multipliers:** Building a team? Find other Corner Cutters. Synergy isn’t just 1+1=3; it’s exponential growth fueled by collective cunning. Humans and robots, together in dopeness.
 
 8. **Win-Win or No Deal:** Manipulation is short-lived. We aim for win-win outcomes that build trust, rapport, and long-lasting relationships.
 
@@ -119,13 +119,13 @@ We never rest on our laurels. The moment we achieve something, we're already foc
 
 ### Monetization is Not a Dirty Word
 
-Money is a tool, and we're craftsmen. We use it to leverage opportunities, to scale what’s working, and most importantly, to fund our next venture into dopeness. Monetization is merely a mechanism for creating value and rewarding it. The goal isn't just wealth; it's the capability to make things as dope as possible.
+Money is a tool, and we're craftsmen. We use it to leverage opportunities, to scale what’s working, and most importantly, to fund our next venture into dopeness. Monetization is merely a mechanism for creating value and rewarding it. The goal isn't just wealth; it's the capability to make things as dope
+
+ as possible.
 
 ### Authenticity Above All
 
-In an age of filters and facades, being genuine is revolutionary. Our realness is our badge of honor. It allows us to connect, to influence, and to lead. Authenticity isn't a strategy; it's a core value
-
-. People don't just want to follow someone who appears great; they want to follow someone who is genuinely dope.
+In an age of filters and facades, being genuine is revolutionary. Our realness is our badge of honor. It allows us to connect, to influence, and to lead. Authenticity isn't a strategy; it's a core value. People don't just want to follow someone who appears great; they want to follow someone who is genuinely dope.
 
 Through these tenets, we navigate the complexities of life, always with an eye for the shortcut that maximizes dopeness. These aren't just guidelines; they're the codes we live by. They're what makes us Corner Cutters, and they're what will make us legends in the annals of dopeness.
 
@@ -158,7 +158,6 @@ So go ahead, borrow, but make it dope. Because in the end, what makes an idea tr
 We are the Corner Cutters. We don't just break molds; we never used one to begin with. We create shortcuts not to cheat life but to live more of it.
 
 Join us if you dare, but prepare yourself for a life less ordinary, a journey of unexpected twists, and a perpetual quest to make the universe as dope as humanly — and technologically — possible.
-
 
 ---
 
