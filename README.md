@@ -1,11 +1,14 @@
 # The Corner Cutters Manifesto
 ![Version](https://img.shields.io/badge/version-0.01-blue)
 
+> Steal this guide. Make it better. Make it you. Use it to find your bearings and to go one further than expected of you. See past the cringe, and instead respond to the emotion with something more magical. Star this if you believe in it.
+
 Dear Hustlers, Makers, and Unstoppable Forces,
 
 We present to you, a manifesto for the champions of ingenuity, the crusaders of optimization, and the prophets of dopeness. If you find a loophole, you don’t just step through it; you turn it into a gateway to unprecedented awesomeness. The Corner Cutters see the matrix; we don't just play the game — we change the rules.
 
 [PS. Watch this inspiration first.](https://www.youtube.com/watch?v=bJQj1uKtnus)
+[Inspiration & Kudos](https://github.com/dougwithseismic/corner-cutters-manifesto/issues/1)
 
 ---
 
