@@ -1,4 +1,5 @@
 # The Corner Cutters Manifesto
+![Version](https://img.shields.io/badge/version-0.01-blue)
 
 Dear Hustlers, Makers, and Unstoppable Forces,
 
