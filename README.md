@@ -4,6 +4,8 @@ Dear Hustlers, Makers, and Unstoppable Forces,
 
 We present to you, a manifesto for the champions of ingenuity, the crusaders of optimization, and the prophets of dopeness. If you find a loophole, you don’t just step through it; you turn it into a gateway to unprecedented awesomeness. The Corner Cutters see the matrix; we don't just play the game — we change the rules.
 
+[PS. Watch this inspiration first.](https://www.youtube.com/watch?v=bJQj1uKtnus)
+
 ---
 
 ## The Core Tenets:
